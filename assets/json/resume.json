@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Prof. Dr. Fatih Kocabaş",
+    "label": "Professor of Molecular Biology and Genetics",
+    "email": "fatih.kocabas@bogazici.edu.tr",
+    "url": "https://kocabaslab.github.io/",
+    "location": {
+      "city": "Istanbul",
+      "countryCode": "TR"
+    }
+  },
+  "work": [
+    {
+      "name": "Boğaziçi University",
+      "position": "Professor (Prof. Dr.)",
+      "location": "Istanbul, Turkey",
+      "startDate": "2027-01",
+      "endDate": "Present",
+      "summary": "Department of Molecular Biology and Genetics"
+    },
+    {
+      "name": "Istanbul Atlas University",
+      "position": "Professor & Department Head",
+      "location": "Istanbul, Turkey",
+      "startDate": "2026-01",
+      "endDate": "2027-01",
+      "summary": "Molecular Biology and Genetics Department"
+    },
+    {
+      "name": "Yeditepe University",
+      "position": "Professor (Prof. Dr.)",
+      "location": "Istanbul, Turkey",
+      "startDate": "2025-01",
+      "endDate": "2025-12"
+    },
+    {
+      "name": "Yeditepe University",
+      "position": "Associate Professor (Doç. Dr.)",
+      "location": "Istanbul, Turkey",
+      "startDate": "2019-01",
+      "endDate": "2025-01"
+    },
+    {
+      "name": "Yeditepe University",
+      "position": "Assistant Professor (Dr. Öğr. Üyesi)",
+      "location": "Istanbul, Turkey",
+      "startDate": "2014-01",
+      "endDate": "2019-01"
+    },
+    {
+      "name": "UT Southwestern Medical Center",
+      "position": "Research Assistant / OPT",
+      "location": "Dallas, Texas, USA",
+      "startDate": "2007-01",
+      "endDate": "2014-01"
+    },
+    {
+      "name": "University of California, San Francisco (UCSF)",
+      "position": "Junior Researcher",
+      "location": "USA",
+      "startDate": "2006-01",
+      "endDate": "2007-01"
+    },
+    {
+      "name": "California Institute of Technology (Caltech)",
+      "position": "Research Intern",
+      "location": "Pasadena, USA",
+      "startDate": "2005-01",
+      "endDate": "2005-12"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas Southwestern Medical Center",
+      "location": "Dallas, Texas, USA",
+      "area": "Medical Biology / Genetics and Development",
+      "studyType": "Ph.D.",
+      "startDate": "2007",
+      "endDate": "2012"
+    },
+    {
+      "institution": "Middle East Technical University (ODTÜ)",
+      "location": "Ankara, Turkey",
+      "area": "Molecular Biology and Genetics",
+      "studyType": "B.S.",
+      "startDate": "2001",
+      "endDate": "2006"
+    },
+    {
+      "institution": "Anadolu University",
+      "location": "Eskişehir, Turkey",
+      "area": "Healthcare Management",
+      "studyType": "B.S.",
+      "startDate": "2017",
+      "endDate": "2020"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flow Cytometry & Laboratory Management",
+      "level": "15+ Years",
+      "keywords": ["HSC Stem Cell Biology", "Cytoflex S", "S3e Cell Sorter", "FACSARIA III"]
+    },
+    {
+      "name": "Drug Discovery & Development",
+      "level": "15+ Years",
+      "keywords": ["Hit Identification", "Lead Optimization", "Small-Molecule Modulators", "Organoid Models"]
+    },
+    {
+      "name": "Project & Grant Management",
+      "level": "15+ Years",
+      "keywords": ["TÜBİTAK", "EIC", "ERA-Net", "EU", "TÜBA"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Turkish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (YDS 88.75)"
+    }
+  ],
+  "awards": [
+    {
+      "title": "TÜBA-GEBİP (Distinguished Young Scientist) Award",
+      "date": "2023",
+      "awarder": "TÜBA"
+    },
+    {
+      "title": "TÜBİTAK Incentive Award",
+      "date": "2022",
+      "awarder": "TÜBİTAK"
+    },
+    {
+      "title": "Young Scientist Award (BAGEP)",
+      "date": "2015",
+      "awarder": "Bilim Akademisi"
+    },
+    {
+      "title": "International Hematology/Oncology Award",
+      "date": "2018",
+      "awarder": "Gilead Sciences"
+    }
+  ]
+}
