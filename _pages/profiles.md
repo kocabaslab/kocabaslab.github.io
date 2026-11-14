@@ -58,7 +58,6 @@ profiles:
       - **2019:** BigBang Award, Elginkan Foundation, Meinox & Fatih Kocabaş
       - **2019:** BigBang Award, Istanbul Chamber of Industry, Meinox & Fatih Kocabaş
   ---
-  profiles:
   - align: left
     image: prof_pic.jpg
     image_circular: false
