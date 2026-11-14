@@ -4,9 +4,6 @@ cv:
   email: fatih.kocabas@bogazici.edu.tr
   phone: ""
   website: https://kocabaslab.github.io/
-  social_networks:
-    - network: Email
-      username: fatih.kocabas@bogazici.edu.tr
 
   sections:
     general_information:
@@ -19,113 +16,122 @@ cv:
       - name: Fields of Interest
         value: Chemical Biology, Gene Editing, Organoids & Small-Molecule Drug Discovery
 
+    languages:
+      - language: Turkish
+        proficiency: Native Speaker
+        details: Ana Dil
+      - language: English
+        proficiency: Fluent (YDS 88.75)
+        details: İleri Düzey Akademik İngilizce
+
+    skills_and_expertise:
+      - category: Flow Cytometry & Laboratory Management
+        duration: "15+ Years"
+        details: HSC Stem Cell Biology, Cytoflex S Flow Cytometry (Beckman), S3e Cell Sorter (BioRad), FACSARIA III
+      - category: Editorial & Leadership
+        duration: "7+ Years"
+        details: Editor-in-Chief (Turkish Journal of Biology & Gene Editing), Peer-Review Management, Academic Leadership
+      - category: Drug Discovery & Development
+        duration: "15+ Years"
+        details: Hit Identification, Lead Optimization, Preclinical Validation, Small-Molecule Modulators, Organoid Models
+      - category: Project & Grant Management
+        duration: "15+ Years"
+        details: Principal Investigator for National & International Grants (TÜBİTAK, EIC, ERA-Net, EU, TÜBA)
+      - category: Innovation & Entrepreneurship
+        duration: "7+ Years"
+        details: Biotechnology Startups (Founder of Meinox), Patenting (Global Patent Family), BiGG, BigBang, RAE LIF
+
     education:
       - institution: University of Texas Southwestern Medical Center, Dallas, Texas, USA
-        area: Medical Biology / Genetics and Development
         degree: Ph.D. in Medical Biology / Genetics and Development
-        start_date: 2007-09
-        end_date: 2012-08
-        highlights:
-          - Completed doctoral research focusing on stem cells and molecular biology.
+        date: 2007–2012
       - institution: Middle East Technical University (ODTÜ), Ankara, Turkey
-        area: Molecular Biology and Genetics
         degree: B.S. in Molecular Biology and Genetics
-        start_date: 2001-09
-        end_date: 2006-06
+        date: 2001–2006
       - institution: Anadolu University, Eskişehir, Turkey
-        area: Healthcare Management
         degree: B.S. in Healthcare Management
-        start_date: 2017-09
-        end_date: 2020-06
+        date: 2017–2020
 
     experience:
-      - company: Boğaziçi University
+      - company: Boğaziçi University, Istanbul, Turkey
         position: Professor (Prof. Dr.)
-        start_date: 2027-01
-        end_date: present
-        location: Istanbul, Turkey
-      - company: Istanbul Atlas University
+        date: 2027–Present
+      - company: Istanbul Atlas University, Istanbul, Turkey
         position: Professor & Department Head
-        start_date: 2026-01
-        end_date: 2027-01
-        location: Istanbul, Turkey
-      - company: Yeditepe University
+        date: 2026–2027
+      - company: Yeditepe University, Istanbul, Turkey
         position: Professor (Prof. Dr.)
-        start_date: 2025-01
-        end_date: 2025-12
-        location: Istanbul, Turkey
-      - company: Yeditepe University
+        date: 2025
+      - company: Yeditepe University, Istanbul, Turkey
         position: Associate Professor (Doç. Dr.)
-        start_date: 2019-01
-        end_date: 2025-01
-        location: Istanbul, Turkey
-      - company: Yeditepe University
+        date: 2019–2025
+      - company: Yeditepe University, Istanbul, Turkey
         position: Assistant Professor (Dr. Öğr. Üyesi)
-        start_date: 2014-01
-        end_date: 2019-01
-        location: Istanbul, Turkey
-      - company: UT Southwestern Medical Center
+        date: 2014–2019
+      - company: UT Southwestern Medical Center, Dallas, Texas, USA
         position: Research Assistant / OPT
-        start_date: 2007-01
-        end_date: 2014-01
-        location: Dallas, Texas, USA
-      - company: University of California, San Francisco (UCSF)
+        date: 2007–2014
+      - company: University of California, San Francisco (UCSF), USA
         position: Junior Researcher, Department of Molecular Pharmacology
-        start_date: 2006-01
-        end_date: 2007-01
-        location: USA
-      - company: California Institute of Technology (Caltech)
+        date: 2006–2007
+      - company: California Institute of Technology (Caltech), Pasadena, USA
         position: Research Intern
-        start_date: 2005-01
-        end_date: 2005-12
-        location: Pasadena, USA
+        date: 2005
 
     administrative_roles:
-      - company: Istanbul Atlas University, Molecular Biology and Genetics
-        position: Head of Department & Division, Quality & Erasmus Coordinator
-        start_date: 2026-01
-        end_date: present
-      - company: Istanbul Atlas University, Faculty of Engineering and Natural Sciences
-        position: Faculty Board & Executive Board Member
-        start_date: 2026-01
-        end_date: present
-      - company: Meinox Teknoloji A.Ş.
-        position: Founder & Chairman of the Board
-        start_date: 2019-01
-        end_date: 2025-12
+      - institution: Istanbul Atlas University, Molecular Biology and Genetics
+        title: Head of Department & Division, Quality & Erasmus Coordinator
+        date: 2026–Present
+      - institution: Istanbul Atlas University, Faculty of Engineering and Natural Sciences
+        title: Faculty Board & Executive Board Member
+        date: 2026–Present
+      - institution: Meinox Teknoloji A.Ş.
+        title: Founder & Chairman of the Board
+        date: 2019–2025
 
     editorial_memberships:
-      - organization: Turkish Journal of Biology
-        role: Editor-in-Chief
-        start_date: 2024-01
-        end_date: present
-      - organization: Gene Editing (genediting.net)
-        role: Editor-in-Chief
-        start_date: 2019-01
-        end_date: present
-      - organization: Turkish Journal of Biology
-        role: Editorial Board Member
-        start_date: 2013-01
-        end_date: present
+      - institution: Turkish Journal of Biology
+        title: Editor-in-Chief
+        date: 2024–Present
+      - institution: Gene Editing (genediting.net)
+        title: Editor-in-Chief
+        date: 2019–Present
+      - institution: Turkish Journal of Biology
+        title: Editorial Board Member
+        date: 2013–Present
+      - institution: Turkish Society of Hematology & Molecular Biology Association
+        title: Professional Member
+        date: 2014–Present
 
     patents:
-      - title: "A Combination Inhibiting MEIS Proteins (PCT/TR2017/050445 / TR2016/16602)"
-        issuer: International Patent Family (US, EU, JP, KR, RU, CN, AU, IN)
-        date: 2018-2024
+      - institution: International Patent Family (US, EU, JP, KR, RU, CN, AU, IN)
+        title: "A Combination Inhibiting MEIS Proteins (PCT/TR2017/050445 / TR2016/16602)"
+        date: 2018–2024
 
     awards:
-      - title: TÜBA-GEBİP (Distinguished Young Scientist) Award
-        issuer: TÜBA
+      - institution: TÜBA
+        title: TÜBA-GEBİP (Distinguished Young Scientist) Award
         date: 2023
-      - title: TÜBİTAK Incentive Award
-        issuer: TÜBİTAK
+      - institution: TÜBİTAK
+        title: TÜBİTAK Incentive Award
         date: 2022
-      - title: Young Scientist Award (BAGEP)
-        issuer: Science Academy (Bilim Akademisi)
+      - institution: Science Academy (Bilim Akademisi)
+        title: Young Scientist Award (BAGEP)
         date: 2015
-      - title: International Hematology/Oncology Award
-        issuer: Gilead Sciences
+      - institution: Gilead Sciences
+        title: International Hematology/Oncology Award
         date: 2018
-      - title: BigBang Awards (Multiple Categories)
-        issuer: İSO, Elginkan Foundation, Petrol Ofisi
-        date: 2019-2020
+      - institution: İSO, Elginkan Foundation, Petrol Ofisi
+        title: BigBang Awards (Multiple Categories)
+        date: 2019–2020
+
+    certifications:
+      - institution: National School of Tropical Medicine at Baylor College of Medicine and The Texas A&M National Center for Therapeutics Manufacturing
+        title: Business of Vaccine Development, Innovation in Therapeutics Manufacturing Workshop (Houston Medical Center, Texas)
+        date: Oct 9, 2013
+      - institution: Stanford Center for Human Embryonic Stem Cell Research and Education, Stanford University
+        title: Basic hESCs and hiPSCs Biology Course (Director Prof. Dr. Renee Reijo Pera)
+        date: May 2011
+      - institution: The University of Texas Southwestern Medical Center
+        title: Effective Teacher Series Grand Rounds (Dallas, TX)
+        date: 2009–2010
