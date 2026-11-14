@@ -57,11 +57,10 @@ profiles:
       - **2020:** Best Presentation Award, Royal Academy of Engineering–Oxentia, London
       - **2019:** BigBang Award, Elginkan Foundation, Meinox & Fatih Kocabaş
       - **2019:** BigBang Award, Istanbul Chamber of Industry, Meinox & Fatih Kocabaş
-  ---
+
   - align: left
-    image: prof_pic.jpg
-    image_circular: false
-    content: > ## Laboratory Members
+    content: >
+      ## Laboratory Members
 
       ### Postdoctoral Researchers
       - Dr. Gülen Esken
@@ -105,5 +104,4 @@ profiles:
 
       ### Undergraduate Students & Alumni
       Zeynep Çokçeken, Esra Avcı, Dilara Birinci, Ecem Aydın, Zehra Hilal İnkaya, Serpil Aylin Yaşar, Ecren Yetim, Dilara Aral, Emre Erdoğan, Pınar Tumğa, Dilara Ağanel, Ürün Ukan, Seçil Özdemir, Deniz Ak, AbdulRahman Altabba, Ezgi Yağmur Kala, Aisha Almasoud, Metin Gabriel Davutoğlu, Özlem Bahar, Merdane Ezgi Aksu, Zeynep Aladağ, Merve Elçiçek, Seden Bedir, Etkin Parlar, Nazlıcan Altınışık, Selin Kahrıman, Seda Tahan, Hazal Şahin, Gülşah Akçadağ, Dilara Dalkıran, Şeyma Işık, Ecem Şener, Burcu Taluğ, Feyzanur Erdemir, Umut Onur Özcan, Seray Çetin, Dilara Aydemir, Mert Akgündüz, Çağla Geroglu, Aydan Sardoğan, İrem Özkan, Gökcan Şahin, Doğacan Yücel, Yasemin Acar, Gizem Aksoğan, Beyzanur Ceylan, Sinem Usluer, Ahmet Hoser (TÜBİTAK 2209A), Utku Ertetik (TÜBİTAK 2209A), Taha Hikmet Dikici (TÜBİTAK 2209A), Nazlı Ataş, Nilsu Atay, Enes K. Ergin, Zeynep Demir, Ebrar Nur Damar, Asya Kurtuluş, Esmanur Meryem Gedik.
-
 ---
