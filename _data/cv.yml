@@ -1,189 +1,158 @@
-cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+- title: Professional Summary
+  type: markdown
+  content: >
+    Fatih Kocabaş is a Professor of Molecular Biology and Genetics. He completed his B.S. at Orta Doğu Technical University and earned his Ph.D. in Genetics and Development at the University of Texas Southwestern Medical Center. His scientific training includes work with Ron Vale and Susan Fisher at UCSF and with Hesham Sadek, Alec Zhang, and Eric Olson at UTSW, along with a fellowship at the California Institute of Technology and stem cell training at Stanford University.
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+    His distinctions include the TÜBA-GEBİP Award (2023), the TÜBİTAK Outstanding Young Scientist Incentive Award (2022), multiple Yeditepe University Academic Achievement Awards (2021–2023), and international recognitions such as the Gilead Sciences Hematology–Oncology Award (2018), the American Heart Association New Investigator Travel Award (2012), and the UTSW GSO Travel Award (2012). He has also been supported by FP7–TÜBİTAK, MC-IF, and the Science Academy’s BAGEP Program (2015), and received several innovation awards for Meinox between 2019 and 2020, including distinctions from BigBang, the Elginkan Foundation, and the Royal Academy of Engineering–Oxentia.
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    He has published more than seventy peer-reviewed articles with over 3,200 citations, including contributions to Nature, Cell Stem Cell, and Blood. He has directed more than fifteen funded projects in stem cell biology, regenerative medicine, cancer research, and gene editing, supported by TÜBİTAK, EIC, ERA-CVD, EU Marie Curie, ICGEB, THD, TÜBA, and the Ministry of Development’s Cell and Gene Therapies R&D Center initiative. He was selected for the Royal Academy of Engineering’s Leaders in Innovation Fellowship and is the founder of Meinox, a biotechnology initiative developing targeted cancer therapeutics. He also serves as Editor-in-Chief of the Turkish Journal of Biology.
 
-  sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Prof. Dr. Fatih Kocabaş
+    - name: Department
+      value: Molecular Biology and Genetics, Boğaziçi University
+    - name: Email
+      value: fatih.kocabas@bogazici.edu.tr / fatihkocabas@gmail.com
+    - name: Fields of Interest
+      value: Chemical Biology, Gene Editing, Organoids & Small-Molecule Drug Discovery
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+- title: Languages
+  type: time_table
+  contents:
+    - year: Turkish
+      institution: Native Speaker
+      title: Ana Dil
+    - year: English
+      institution: Fluent (YDS: 88.75)
+      title: İleri Düzey Akademik İngilizce
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+- title: Skills & Expertise
+  type: time_table
+  contents:
+    - year: >15 Years
+      institution: Flow Cytometry & Laboratory Management
+      title: "HSC Stem Cell Biology, Cytoflex S Flow Cytometry (Beckman), S3e™ Cell Sorter (BioRad), FACSARIA III"
+    - year: >7 Years
+      institution: Editorial & Leadership
+      title: "Editor-in-Chief (Turkish Journal of Biology & Gene Editing), Peer-Review Management, Academic Leadership"
+    - year: >15 Years
+      institution: Drug Discovery & Development
+      title: "Hit Identification, Lead Optimization, Preclinical Validation, Small-Molecule Modulators, Organoid Models"
+    - year: >15 Years
+      institution: Project & Grant Management
+      title: "Principal Investigator for National & International Grants (TÜBİTAK, EIC, ERA-Net, EU, TÜBA)"
+    - year: >7 Years
+      institution: Innovation & Entrepreneurship
+      title: "Biotechnology Startups (Founder of Meinox), Patenting (Global Patent Family), BiGG, BigBang, RAE LIF"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+- title: Education
+  type: time_table
+  contents:
+    - year: 2007–2012
+      institution: University of Texas Southwestern Medical Center, Dallas, Texas, USA
+      title: Ph.D. in Medical Biology / Genetics and Development
+    - year: 2001–2006
+      institution: Middle East Technical University (ODTÜ), Ankara, Turkey
+      title: B.S. in Molecular Biology and Genetics
+    - year: 2017–2020
+      institution: Anadolu University, Eskişehir, Turkey
+      title: B.S. in Healthcare Management
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+- title: Academic Titles & Experience
+  type: time_table
+  contents:
+    - year: 2027–Present
+      institution: Boğaziçi University, Istanbul, Turkey
+      title: Professor (Prof. Dr.)
+    - year: 2026–2027
+      institution: Istanbul Atlas University, Istanbul, Turkey
+      title: Professor & Department Head
+    - year: 2025
+      institution: Yeditepe University, Istanbul, Turkey
+      title: Professor (Prof. Dr.)
+    - year: 2019–2025
+      institution: Yeditepe University, Istanbul, Turkey
+      title: Associate Professor (Doç. Dr.)
+    - year: 2014–2019
+      institution: Yeditepe University, Istanbul, Turkey
+      title: Assistant Professor (Dr. Öğr. Üyesi)
+    - year: 2007–2014
+      institution: UT Southwestern Medical Center, Dallas, Texas, USA
+      title: Research Assistant / OPT
+    - year: 2006–2007
+      institution: University of California, San Francisco (UCSF), USA
+      title: Junior Researcher, Department of Molecular Pharmacology
+    - year: 2005
+      institution: California Institute of Technology (Caltech), Pasadena, USA
+      title: Research Intern
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+- title: Administrative Roles
+  type: time_table
+  contents:
+    - year: 2026–Present
+      institution: Istanbul Atlas University, Molecular Biology and Genetics
+      title: Head of Department & Division, Quality & Erasmus Coordinator
+    - year: 2026–Present
+      institution: Istanbul Atlas University, Faculty of Engineering and Natural Sciences
+      title: Faculty Board & Executive Board Member
+    - year: 2019–2025
+      institution: Meinox Teknoloji A.Ş.
+      title: Founder & Chairman of the Board
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+- title: Editorial & Professional Memberships
+  type: time_table
+  contents:
+    - year: 2024–Present
+      institution: Turkish Journal of Biology
+      title: Editor-in-Chief
+    - year: 2019–Present
+      institution: Gene Editing (genediting.net)
+      title: Editor-in-Chief
+    - year: 2013–Present
+      institution: Turkish Journal of Biology
+      title: Editorial Board Member
+    - year: 2014–Present
+      institution: Turkish Society of Hematology & Molecular Biology Association
+      title: Professional Member
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+- title: Patents & Intellectual Property
+  type: time_table
+  contents:
+    - year: 2018–2024
+      institution: International Patent Family (US, EU, JP, KR, RU, CN, AU, IN)
+      title: "A Combination Inhibiting MEIS Proteins (PCT/TR2017/050445 / TR2016/16602)"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - year: 2023
+      institution: TÜBA
+      title: TÜBA-GEBİP (Distinguished Young Scientist) Award
+    - year: 2022
+      institution: TÜBİTAK
+      title: TÜBİTAK Incentive Award
+    - year: 2015
+      institution: Science Academy (Bilim Akademisi)
+      title: Young Scientist Award (BAGEP)
+    - year: 2018
+      institution: Gilead Sciences
+      title: International Hematology/Oncology Award
+    - year: 2019–2020
+      institution: İSO, Elginkan Foundation, Petrol Ofisi
+      title: BigBang Awards (Multiple Categories)
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+- title: Certification
+  type: time_table
+  contents:
+    - year: Oct 9, 2013
+      institution: National School of Tropical Medicine at Baylor College of Medicine and The Texas A&M National Center for Therapeutics Manufacturing
+      title: Business of Vaccine Development, Innovation in Therapeutics Manufacturing Workshop (Houston Medical Center, Texas)
+    - year: May 2011
+      institution: Stanford Center for Human Embryonic Stem Cell Research and Education, Stanford University
+      title: Basic hESCs and hiPSCs Biology Course (Director: Prof. Dr. Renee Reijo Pera)
+    - year: 2009–2010
+      institution: The University of Texas Southwestern Medical Center
+      title: Effective Teacher Series Grand Rounds (Dallas, TX)
