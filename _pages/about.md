@@ -2,33 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://mbg.bogazici.edu.tr/' target='_blank'>Department of Molecular Biology and Genetics</a>, Boğaziçi University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><strong>Organoid and Drug Discovery Laboratory (ODD Lab)</strong></p>
+    <p>North Campus, Kuzey Park Building</p>
+    <p>Boğaziçi University, Bebek, İstanbul</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 5
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the **Organoid and Drug Discovery Laboratory (ODD Lab)**, led by **Prof. Dr. Fatih Kocabaş** at the Department of Molecular Biology and Genetics, Boğaziçi University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our research integrates **chemical biology**, **large-scale *in silico* screening**, **patient-derived 3D organoid modeling**, and **protein-DNA interface engineering** to discover novel therapeutic targets and small-molecule modulators for cancer and regenerative medicine.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Core Research Pillars
+
+* **Discovery of Novel Drug Targets and Small Molecules:** We conduct large-scale *in silico* screening of approximately one million compounds to prioritize candidate molecules and uncover previously unexploited therapeutic targets involved in cell cycle control, stem cell regulation, and cell fate decisions. High-confidence targets and compounds are validated *in vitro* using physiologically relevant organoid models derived from healthy and malignant tissues.
+* **Patient-Derived Organoid Platform for Precision Oncology:** We develop patient-derived organoid platforms to functionally evaluate cancer drug responses directly on patient-specific tumor models. Tumor biopsies from selected solid cancers are used to generate and characterize organoids preserving original genetic and phenotypic hallmarks, enabling systematic testing of approved small molecules, targeted therapies, and biologics.
+* **Gene Editing & Protein-DNA Interface Engineering:** We engineer CRISPR/Cas9 systems and protein-DNA interfaces to interrogate target dependencies and develop next-generation functional genomics tools.
+
+### Join the Lab
+We are actively recruiting motivated **M.Sc. and Ph.D. students** through the Boğaziçi University MBG graduate program, as well as undergraduate researchers. Prospective members are encouraged to reach out with a brief CV and research statement.
