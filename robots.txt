@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kocabaslab.github.io/sitemap.xml
