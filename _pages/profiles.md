@@ -57,4 +57,54 @@ profiles:
       - **2020:** Best Presentation Award, Royal Academy of Engineering–Oxentia, London
       - **2019:** BigBang Award, Elginkan Foundation, Meinox & Fatih Kocabaş
       - **2019:** BigBang Award, Istanbul Chamber of Industry, Meinox & Fatih Kocabaş
+  ---
+  profiles:
+  - align: left
+    image: prof_pic.jpg
+    image_circular: false
+    content: > ## Laboratory Members
+
+      ### Postdoctoral Researchers
+      - Dr. Gülen Esken
+      - Dr. Medine Karadağ
+      - Dr. Melek Yüce
+      - Dr. Remziye Doğer
+
+      ### Ph.D. Students
+      - Aynura Mammadova (2026–Present)
+      - Buğra Onat (2023–2025)
+      - Sümbül Yıldırım (2023–Present)
+      - Neslihan Meriç (2021–Present)
+      - Esra Albayrak (2015–2020)
+      - Merve Uslu (2015–2020)
+      - Pınar Siyah (2015–2020)
+      - Şeyma Nur Eren (2017–2019)
+      - Dolay Damla Çelik (2015–2017)
+      - Seyhan Genç (2015–2017)
+      - Perihan Ünver Uçkaç (2014–2015)
+
+      ### M.Sc. Students
+      - Shah (2026–Present)
+      - Bakinama (2026–Present)
+      - Nefise (2026–Present)
+      - Birkan Girgin (2021)
+      - Hümeyra Sidal (2022)
+      - Betül Yusuf (2022)
+      - Sezer Akgöl (2020)
+      - Feyza Polat (2018–2020)
+      - Lamia Yazgı Alyazıcı (2016–2019)
+      - Batuhan M. Kalkan (2016–2018)
+      - Digdem Taskaya Gül (2014–2018)
+      - Semih Arbatlı (2014–2017)
+      - Galip Servet Aslan (2014–2017)
+      - Pınar Çolakoğlu Erkan (2014–2017)
+      - Raife Dilek Turan (2014–2017)
+      - Merve Aksöz (2014–2017)
+      - Seyma Yıldırım (2014–2016)
+      - Emine Kazanç (2014–2015)
+      - Caglar Cil (2016)
+
+      ### Undergraduate Students & Alumni
+      Zeynep Çokçeken, Esra Avcı, Dilara Birinci, Ecem Aydın, Zehra Hilal İnkaya, Serpil Aylin Yaşar, Ecren Yetim, Dilara Aral, Emre Erdoğan, Pınar Tumğa, Dilara Ağanel, Ürün Ukan, Seçil Özdemir, Deniz Ak, AbdulRahman Altabba, Ezgi Yağmur Kala, Aisha Almasoud, Metin Gabriel Davutoğlu, Özlem Bahar, Merdane Ezgi Aksu, Zeynep Aladağ, Merve Elçiçek, Seden Bedir, Etkin Parlar, Nazlıcan Altınışık, Selin Kahrıman, Seda Tahan, Hazal Şahin, Gülşah Akçadağ, Dilara Dalkıran, Şeyma Işık, Ecem Şener, Burcu Taluğ, Feyzanur Erdemir, Umut Onur Özcan, Seray Çetin, Dilara Aydemir, Mert Akgündüz, Çağla Geroglu, Aydan Sardoğan, İrem Özkan, Gökcan Şahin, Doğacan Yücel, Yasemin Acar, Gizem Aksoğan, Beyzanur Ceylan, Sinem Usluer, Ahmet Hoser (TÜBİTAK 2209A), Utku Ertetik (TÜBİTAK 2209A), Taha Hikmet Dikici (TÜBİTAK 2209A), Nazlı Ataş, Nilsu Atay, Enes K. Ergin, Zeynep Demir, Ebrar Nur Damar, Asya Kurtuluş, Esmanur Meryem Gedik.
+
 ---
