@@ -1,12 +1,3 @@
-- title: Professional Summary
-  type: markdown
-  content: >
-    Fatih Kocabaş is a Professor of Molecular Biology and Genetics. He completed his B.S. at Orta Doğu Technical University and earned his Ph.D. in Genetics and Development at the University of Texas Southwestern Medical Center. His scientific training includes work with Ron Vale and Susan Fisher at UCSF and with Hesham Sadek, Alec Zhang, and Eric Olson at UTSW, along with a fellowship at the California Institute of Technology and stem cell training at Stanford University.
-
-    His distinctions include the TÜBA-GEBİP Award (2023), the TÜBİTAK Outstanding Young Scientist Incentive Award (2022), multiple Yeditepe University Academic Achievement Awards (2021–2023), and international recognitions such as the Gilead Sciences Hematology–Oncology Award (2018), the American Heart Association New Investigator Travel Award (2012), and the UTSW GSO Travel Award (2012). He has also been supported by FP7–TÜBİTAK, MC-IF, and the Science Academy’s BAGEP Program (2015), and received several innovation awards for Meinox between 2019 and 2020, including distinctions from BigBang, the Elginkan Foundation, and the Royal Academy of Engineering–Oxentia.
-
-    He has published more than seventy peer-reviewed articles with over 3,200 citations, including contributions to Nature, Cell Stem Cell, and Blood. He has directed more than fifteen funded projects in stem cell biology, regenerative medicine, cancer research, and gene editing, supported by TÜBİTAK, EIC, ERA-CVD, EU Marie Curie, ICGEB, THD, TÜBA, and the Ministry of Development’s Cell and Gene Therapies R&D Center initiative. He was selected for the Royal Academy of Engineering’s Leaders in Innovation Fellowship and is the founder of Meinox, a biotechnology initiative developing targeted cancer therapeutics. He also serves as Editor-in-Chief of the Turkish Journal of Biology.
-
 - title: General Information
   type: map
   contents:
@@ -34,19 +25,19 @@
   contents:
     - year: >15 Years
       institution: Flow Cytometry & Laboratory Management
-      title: "HSC Stem Cell Biology, Cytoflex S Flow Cytometry (Beckman), S3e™ Cell Sorter (BioRad), FACSARIA III"
+      title: HSC Stem Cell Biology, Cytoflex S Flow Cytometry (Beckman), S3e Cell Sorter (BioRad), FACSARIA III
     - year: >7 Years
       institution: Editorial & Leadership
-      title: "Editor-in-Chief (Turkish Journal of Biology & Gene Editing), Peer-Review Management, Academic Leadership"
+      title: Editor-in-Chief (Turkish Journal of Biology & Gene Editing), Peer-Review Management, Academic Leadership
     - year: >15 Years
       institution: Drug Discovery & Development
-      title: "Hit Identification, Lead Optimization, Preclinical Validation, Small-Molecule Modulators, Organoid Models"
+      title: Hit Identification, Lead Optimization, Preclinical Validation, Small-Molecule Modulators, Organoid Models
     - year: >15 Years
       institution: Project & Grant Management
-      title: "Principal Investigator for National & International Grants (TÜBİTAK, EIC, ERA-Net, EU, TÜBA)"
+      title: Principal Investigator for National & International Grants (TÜBİTAK, EIC, ERA-Net, EU, TÜBA)
     - year: >7 Years
       institution: Innovation & Entrepreneurship
-      title: "Biotechnology Startups (Founder of Meinox), Patenting (Global Patent Family), BiGG, BigBang, RAE LIF"
+      title: Biotechnology Startups (Founder of Meinox), Patenting (Global Patent Family), BiGG, BigBang, RAE LIF
 
 - title: Education
   type: time_table
@@ -123,7 +114,7 @@
   contents:
     - year: 2018–2024
       institution: International Patent Family (US, EU, JP, KR, RU, CN, AU, IN)
-      title: "A Combination Inhibiting MEIS Proteins (PCT/TR2017/050445 / TR2016/16602)"
+      title: A Combination Inhibiting MEIS Proteins (PCT/TR2017/050445 / TR2016/16602)
 
 - title: Honors & Awards
   type: time_table
