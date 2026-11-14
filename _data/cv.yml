@@ -1,149 +1,131 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Prof. Dr. Fatih Kocabaş
-    - name: Department
-      value: Molecular Biology and Genetics, Boğaziçi University
-    - name: Email
-      value: fatih.kocabas@bogazici.edu.tr / fatihkocabas@gmail.com
-    - name: Fields of Interest
-      value: Chemical Biology, Gene Editing, Organoids & Small-Molecule Drug Discovery
+cv:
+  name: Prof. Dr. Fatih Kocabaş
+  location: Istanbul, Turkey
+  email: fatih.kocabas@bogazici.edu.tr
+  phone: ""
+  website: https://kocabaslab.github.io/
+  social_networks:
+    - network: Email
+      username: fatih.kocabas@bogazici.edu.tr
 
-- title: Languages
-  type: time_table
-  contents:
-    - year: Turkish
-      institution: Native Speaker
-      title: Ana Dil
-    - year: English
-      institution: Fluent (YDS 88.75)
-      title: İleri Düzey Akademik İngilizce
+  sections:
+    general_information:
+      - name: Full Name
+        value: Prof. Dr. Fatih Kocabaş
+      - name: Department
+        value: Molecular Biology and Genetics, Boğaziçi University
+      - name: Email
+        value: fatih.kocabas@bogazici.edu.tr / fatihkocabas@gmail.com
+      - name: Fields of Interest
+        value: Chemical Biology, Gene Editing, Organoids & Small-Molecule Drug Discovery
 
-- title: Skills & Expertise
-  type: time_table
-  contents:
-    - year: "15+ Years"
-      institution: Flow Cytometry & Laboratory Management
-      title: HSC Stem Cell Biology, Cytoflex S Flow Cytometry (Beckman), S3e Cell Sorter (BioRad), FACSARIA III
-    - year: "7+ Years"
-      institution: Editorial & Leadership
-      title: Editor-in-Chief (Turkish Journal of Biology & Gene Editing), Peer-Review Management, Academic Leadership
-    - year: "15+ Years"
-      institution: Drug Discovery & Development
-      title: Hit Identification, Lead Optimization, Preclinical Validation, Small-Molecule Modulators, Organoid Models
-    - year: "15+ Years"
-      institution: Project & Grant Management
-      title: Principal Investigator for National & International Grants (TÜBİTAK, EIC, ERA-Net, EU, TÜBA)
-    - year: "7+ Years"
-      institution: Innovation & Entrepreneurship
-      title: Biotechnology Startups (Founder of Meinox), Patenting (Global Patent Family), BiGG, BigBang, RAE LIF
+    education:
+      - institution: University of Texas Southwestern Medical Center, Dallas, Texas, USA
+        area: Medical Biology / Genetics and Development
+        degree: Ph.D. in Medical Biology / Genetics and Development
+        start_date: 2007-09
+        end_date: 2012-08
+        highlights:
+          - Completed doctoral research focusing on stem cells and molecular biology.
+      - institution: Middle East Technical University (ODTÜ), Ankara, Turkey
+        area: Molecular Biology and Genetics
+        degree: B.S. in Molecular Biology and Genetics
+        start_date: 2001-09
+        end_date: 2006-06
+      - institution: Anadolu University, Eskişehir, Turkey
+        area: Healthcare Management
+        degree: B.S. in Healthcare Management
+        start_date: 2017-09
+        end_date: 2020-06
 
-- title: Education
-  type: time_table
-  contents:
-    - year: 2007–2012
-      institution: University of Texas Southwestern Medical Center, Dallas, Texas, USA
-      title: Ph.D. in Medical Biology / Genetics and Development
-    - year: 2001–2006
-      institution: Middle East Technical University (ODTÜ), Ankara, Turkey
-      title: B.S. in Molecular Biology and Genetics
-    - year: 2017–2020
-      institution: Anadolu University, Eskişehir, Turkey
-      title: B.S. in Healthcare Management
+    experience:
+      - company: Boğaziçi University
+        position: Professor (Prof. Dr.)
+        start_date: 2027-01
+        end_date: present
+        location: Istanbul, Turkey
+      - company: Istanbul Atlas University
+        position: Professor & Department Head
+        start_date: 2026-01
+        end_date: 2027-01
+        location: Istanbul, Turkey
+      - company: Yeditepe University
+        position: Professor (Prof. Dr.)
+        start_date: 2025-01
+        end_date: 2025-12
+        location: Istanbul, Turkey
+      - company: Yeditepe University
+        position: Associate Professor (Doç. Dr.)
+        start_date: 2019-01
+        end_date: 2025-01
+        location: Istanbul, Turkey
+      - company: Yeditepe University
+        position: Assistant Professor (Dr. Öğr. Üyesi)
+        start_date: 2014-01
+        end_date: 2019-01
+        location: Istanbul, Turkey
+      - company: UT Southwestern Medical Center
+        position: Research Assistant / OPT
+        start_date: 2007-01
+        end_date: 2014-01
+        location: Dallas, Texas, USA
+      - company: University of California, San Francisco (UCSF)
+        position: Junior Researcher, Department of Molecular Pharmacology
+        start_date: 2006-01
+        end_date: 2007-01
+        location: USA
+      - company: California Institute of Technology (Caltech)
+        position: Research Intern
+        start_date: 2005-01
+        end_date: 2005-12
+        location: Pasadena, USA
 
-- title: Academic Titles & Experience
-  type: time_table
-  contents:
-    - year: 2027–Present
-      institution: Boğaziçi University, Istanbul, Turkey
-      title: Professor (Prof. Dr.)
-    - year: 2026–2027
-      institution: Istanbul Atlas University, Istanbul, Turkey
-      title: Professor & Department Head
-    - year: 2025
-      institution: Yeditepe University, Istanbul, Turkey
-      title: Professor (Prof. Dr.)
-    - year: 2019–2025
-      institution: Yeditepe University, Istanbul, Turkey
-      title: Associate Professor (Doç. Dr.)
-    - year: 2014–2019
-      institution: Yeditepe University, Istanbul, Turkey
-      title: Assistant Professor (Dr. Öğr. Üyesi)
-    - year: 2007–2014
-      institution: UT Southwestern Medical Center, Dallas, Texas, USA
-      title: Research Assistant / OPT
-    - year: 2006–2007
-      institution: University of California, San Francisco (UCSF), USA
-      title: Junior Researcher, Department of Molecular Pharmacology
-    - year: 2005
-      institution: California Institute of Technology (Caltech), Pasadena, USA
-      title: Research Intern
+    administrative_roles:
+      - company: Istanbul Atlas University, Molecular Biology and Genetics
+        position: Head of Department & Division, Quality & Erasmus Coordinator
+        start_date: 2026-01
+        end_date: present
+      - company: Istanbul Atlas University, Faculty of Engineering and Natural Sciences
+        position: Faculty Board & Executive Board Member
+        start_date: 2026-01
+        end_date: present
+      - company: Meinox Teknoloji A.Ş.
+        position: Founder & Chairman of the Board
+        start_date: 2019-01
+        end_date: 2025-12
 
-- title: Administrative Roles
-  type: time_table
-  contents:
-    - year: 2026–Present
-      institution: Istanbul Atlas University, Molecular Biology and Genetics
-      title: Head of Department & Division, Quality & Erasmus Coordinator
-    - year: 2026–Present
-      institution: Istanbul Atlas University, Faculty of Engineering and Natural Sciences
-      title: Faculty Board & Executive Board Member
-    - year: 2019–2025
-      institution: Meinox Teknoloji A.Ş.
-      title: Founder & Chairman of the Board
+    editorial_memberships:
+      - organization: Turkish Journal of Biology
+        role: Editor-in-Chief
+        start_date: 2024-01
+        end_date: present
+      - organization: Gene Editing (genediting.net)
+        role: Editor-in-Chief
+        start_date: 2019-01
+        end_date: present
+      - organization: Turkish Journal of Biology
+        role: Editorial Board Member
+        start_date: 2013-01
+        end_date: present
 
-- title: Editorial & Professional Memberships
-  type: time_table
-  contents:
-    - year: 2024–Present
-      institution: Turkish Journal of Biology
-      title: Editor-in-Chief
-    - year: 2019–Present
-      institution: Gene Editing (genediting.net)
-      title: Editor-in-Chief
-    - year: 2013–Present
-      institution: Turkish Journal of Biology
-      title: Editorial Board Member
-    - year: 2014–Present
-      institution: Turkish Society of Hematology & Molecular Biology Association
-      title: Professional Member
+    patents:
+      - title: "A Combination Inhibiting MEIS Proteins (PCT/TR2017/050445 / TR2016/16602)"
+        issuer: International Patent Family (US, EU, JP, KR, RU, CN, AU, IN)
+        date: 2018-2024
 
-- title: Patents & Intellectual Property
-  type: time_table
-  contents:
-    - year: 2018–2024
-      institution: International Patent Family (US, EU, JP, KR, RU, CN, AU, IN)
-      title: "A Combination Inhibiting MEIS Proteins (PCT/TR2017/050445 / TR2016/16602)"
-
-- title: Honors & Awards
-  type: time_table
-  contents:
-    - year: 2023
-      institution: TÜBA
-      title: TÜBA-GEBİP (Distinguished Young Scientist) Award
-    - year: 2022
-      institution: TÜBİTAK
-      title: TÜBİTAK Incentive Award
-    - year: 2015
-      institution: Science Academy (Bilim Akademisi)
-      title: Young Scientist Award (BAGEP)
-    - year: 2018
-      institution: Gilead Sciences
-      title: International Hematology/Oncology Award
-    - year: 2019–2020
-      institution: İSO, Elginkan Foundation, Petrol Ofisi
-      title: BigBang Awards (Multiple Categories)
-
-- title: Certification
-  type: time_table
-  contents:
-    - year: Oct 9, 2013
-      institution: National School of Tropical Medicine at Baylor College of Medicine and The Texas A&M National Center for Therapeutics Manufacturing
-      title: Business of Vaccine Development, Innovation in Therapeutics Manufacturing Workshop (Houston Medical Center, Texas)
-    - year: May 2011
-      institution: Stanford Center for Human Embryonic Stem Cell Research and Education, Stanford University
-      title: Basic hESCs and hiPSCs Biology Course (Director Prof. Dr. Renee Reijo Pera)
-    - year: 2009–2010
-      institution: The University of Texas Southwestern Medical Center
-      title: Effective Teacher Series Grand Rounds (Dallas, TX)
+    awards:
+      - title: TÜBA-GEBİP (Distinguished Young Scientist) Award
+        issuer: TÜBA
+        date: 2023
+      - title: TÜBİTAK Incentive Award
+        issuer: TÜBİTAK
+        date: 2022
+      - title: Young Scientist Award (BAGEP)
+        issuer: Science Academy (Bilim Akademisi)
+        date: 2015
+      - title: International Hematology/Oncology Award
+        issuer: Gilead Sciences
+        date: 2018
+      - title: BigBang Awards (Multiple Categories)
+        issuer: İSO, Elginkan Foundation, Petrol Ofisi
+        date: 2019-2020
