@@ -26,7 +26,7 @@ nav_order: 2
       <td>Comparative and mechanistic analysis of mitophagy and nucleophagy responses under lithium chloride-induced cellular stress in 3D endometrial cancer spheroids</td>
       <td>TÜBİTAK 1001</td>
       <td>3,567,040 TL</td>
-      <td>Advisor <br> 15/10/2026–15/04/2029</td>
+      <td>Advisor <br> 15/10/2026–Ongoing</td>
     </tr>
     <tr>
       <th scope="row">2</th>
