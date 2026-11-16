@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Comprehensive list of active and completed research grants, industrial projects, and institutional funding supporting our laboratory.
 nav: true
