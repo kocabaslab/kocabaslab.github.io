@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /people/
-title: people
-description: Principal Investigator and Lab Members
+title: The ODD Lab | Kocabaş Lab
+description: The ODD Lab Members and Alumni
 nav: true
 nav_order: 7
 ---
@@ -77,10 +77,10 @@ He has published more than seventy peer-reviewed articles with over 3,600 citati
 - Dr. Remziye Doğer
 
 ### Ph.D. Students
-- Aynura Mammadova (2026–Present)
+- Aynura Mammadova (2026)
 - Buğra Onat (2023–2025)
-- Sümbül Yıldırım (2023–Present)
-- Neslihan Meriç (2021–Present)
+- Sümbül Yıldırım (2023)
+- Neslihan Meriç (2021)
 - Esra Albayrak (2015–2020)
 - Merve Uslu (2015–2020)
 - Pınar Siyah (2015–2020)
@@ -90,9 +90,9 @@ He has published more than seventy peer-reviewed articles with over 3,600 citati
 - Perihan Ünver Uçkaç (2014–2015)
 
 ### M.Sc. Students
-- Shah (2026–Present)
-- Bakinama (2026–Present)
-- Nefise (2026–Present)
+- Shah Zaib Gillani (2026–Present)
+- Bakinama Musa Shabiri(2026–Present)
+- Nefise Derya Altınkaya (2026–Present)
 - Birkan Girgin (2021)
 - Hümeyra Sidal (2022)
 - Betül Yusuf (2022)
