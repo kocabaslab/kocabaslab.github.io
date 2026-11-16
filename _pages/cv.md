@@ -52,7 +52,7 @@ description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici Univ
 ## Academic Titles & Experience
 
 - **2027–Present:** Professor (Prof. Dr.), Boğaziçi University, Istanbul, Türkiye
-- **2026–2027:** Professor & Department Head, Istanbul Atlas University, Istanbul, Türkiye
+- **2026–2027:** Professor & Department Head,  Atlas University, Istanbul, Türkiye
 - **2025:** Professor (Prof. Dr.), Yeditepe University, Istanbul, Türkiye
 - **2019–2025:** Associate Professor (Doç. Dr.), Yeditepe University, Istanbul, Türkiye
 - **2014–2019:** Assistant Professor (Dr. Öğr. Üyesi), Yeditepe University, Istanbul, Türkiye
@@ -64,8 +64,8 @@ description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici Univ
 
 ## Administrative Roles
 
-- **2026–Present:** Head of Department & Division, Quality & Erasmus Coordinator, Istanbul Atlas University, Molecular Biology and Genetics
-- **2026–Present:** Faculty Board & Executive Board Member, Istanbul Atlas University, Faculty of Engineering and Natural Sciences
+- **2026–2027:** Head of Department & Division, Quality & Erasmus Coordinator,  Atlas University, Molecular Biology and Genetics
+- **2026–2027:** Faculty Board & Executive Board Member,  Atlas University, Faculty of Engineering and Natural Sciences
 - **2019–2025:** Founder & Chairman of the Board, Meinox Teknoloji A.Ş.
 
 ---
