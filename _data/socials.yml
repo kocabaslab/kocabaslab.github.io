@@ -8,11 +8,10 @@ email: fatihkocabas@gmail.com # your email address
 scholar_userid: lRj-Zw0AAAAJ&hl # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# LinkedIn için yerleşik alanı kullanmanız yeterlidir:
+linkedin_username: fatihkocabas
+# Özel ikonunuz (Kitap) için benzersiz anahtar adı ve yerel dosya yolu:
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://github.com/kocabaslab/kocabaslab.github.io/blob/main/assets/img/kitap.png # can be png, svg, jpg
+  logo: /assets/img/kitap.png
   title: Book
   url: http://genterapi.com.tr/
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://github.com/kocabaslab/kocabaslab.github.io/blob/main/assets/img/LinkedIn_logo_initials.png # can be png, svg, jpg
-  title: Linkedin
-  url: https://www.linkedin.com/in/fatihkocabas/
