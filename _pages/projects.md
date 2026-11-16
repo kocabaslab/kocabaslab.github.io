@@ -26,7 +26,7 @@ nav_order: 2
       <td>Modulation of cell viability by MEIS inhibitors in pathologically distinct cancers</td>
       <td>TÜBA-GEBİP</td>
       <td>450,000 TL</td>
-      <td>PI <br> 2023–Ongoing</td>
+      <td>PI <br> 2023–2026</td>
     </tr>
     <tr>
       <th scope="row">2</th>
@@ -40,7 +40,7 @@ nav_order: 2
       <td>Synthesis and molecular modeling of novel hydrazide–sulfonamide compounds as antimicrobial, anticancer and antioxidant agents</td>
       <td>TÜSEB (Group A)</td>
       <td>125,000 TL</td>
-      <td>Researcher <br> 2024–Ongoing</td>
+      <td>Researcher <br> 2024–2026</td>
     </tr>
   </tbody>
 </table>
@@ -102,7 +102,7 @@ nav_order: 2
       <td>Lead compound optimization of novel MEIS1 inhibitors</td>
       <td>TÜBİTAK 1001</td>
       <td>360,000 TL</td>
-      <td>Consultant / Researcher <br> Dates not specified</td>
+      <td>Consultant / Researcher <br> 01/11/2018–01/11/2020</td>
     </tr>
     <tr>
       <th scope="row">10</th>
@@ -164,7 +164,7 @@ nav_order: 2
       <th scope="row">18</th>
       <td>Small-molecule–induced ex vivo hematopoietic stem cell expansion</td>
       <td>Marie Curie COFUND (FP7) & TÜBİTAK 2236</td>
-      <td>323,160.84 TL</td>
+      <td>323,160 TL</td>
       <td>PI <br> 08/06/2015–08/06/2017</td>
     </tr>
     <tr>
