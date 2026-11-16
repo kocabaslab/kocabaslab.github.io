@@ -1,19 +1,18 @@
 ---
 layout: page
-title: books
+title: Books
 permalink: /books/
-description: Authored books exploring the future of medicine, gene therapy, and modern biotechnology.
+description: Authored books by Prof. Dr. Fatih Kocabaş exploring the future of medicine, gene therapy, and modern biotechnology.
 nav: true
 nav_order: 5
 ---
 
 <div class="row">
     <div class="col-sm-4 text-center">
-        <!-- Kitap görseli için assets klasörüne kapak eklenebilir veya resmi site adresi kullanılabilir -->
+        <!-- Kitap görseli: assets/img/ klasörüne koyduğunuz görselin adını src kısmına yazın -->
         <div class="card p-3 shadow-sm mb-4">
-            <h3 class="font-weight-bold text-primary mb-2">Tıp 2.0</h3>
-            <h5 class="text-muted mb-3">Gen ve RNA Terapi</h5>
-            <p class="small text-muted mb-0">Prof. Dr. Fatih Kocabaş</p>
+            <img src="/assets/img/kitap.png" alt="Tıp 2.0: Gen ve RNA Terapi Kitap Kapağı" class="img-fluid rounded mb-3 shadow-sm">
+            <p class="small text-muted mb-0 font-weight-bold">Prof. Dr. Fatih Kocabaş</p>
         </div>
     </div>
     
