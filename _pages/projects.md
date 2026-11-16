@@ -109,7 +109,7 @@ nav_order: 2
       <td>Lead compound optimization of novel MEIS1 inhibitors</td>
       <td>TÜBİTAK 1001</td>
       <td>360,000 TL</td>
-      <td>Consultant / Researcher <br> 01/11/2018–01/11/2020</td>
+      <td>Advisoor / Researcher <br> 01/11/2018–01/11/2020</td>
     </tr>
     <tr>
       <th scope="row">11</th>
