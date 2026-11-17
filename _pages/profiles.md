@@ -24,8 +24,6 @@ He has published more than seventy peer-reviewed articles with over 3,600 citati
 </div>
 </div>
 
----
-
 ## Honors & Awards
 
 ### Academic & Scientific Distinctions
@@ -47,7 +45,6 @@ He has published more than seventy peer-reviewed articles with over 3,600 citati
 
 ---
 ## Join the Lab
----
 We are actively recruiting motivated M.Sc. and Ph.D. students through the Boğaziçi University MBG graduate program, as well as undergraduate researchers. Prospective members are encouraged to reach out with a brief CV and research statement (Email:fatihkocabas@gmail.com / fatih.kocabas@bogazici.edu.tr).
 
 ---
@@ -92,6 +89,6 @@ We are actively recruiting motivated M.Sc. and Ph.D. students through the Boğaz
 - Seyma Yıldırım (2014–2016)
 - Emine Kazanç (2014–2015)
 - Caglar Cil (2016)
-
+---
 ### Undergraduate Students & Alumni
 Zeynep Çokçeken, Esra Avcı, Dilara Birinci, Ecem Aydın, Zehra Hilal İnkaya, Serpil Aylin Yaşar, Ecren Yetim, Dilara Aral, Emre Erdoğan, Pınar Tumğa, Dilara Ağanel, Ürün Ukan, Seçil Özdemir, Deniz Ak, AbdulRahman Altabba, Ezgi Yağmur Kala, Aisha Almasoud, Metin Gabriel Davutoğlu, Özlem Bahar, Merdane Ezgi Aksu, Zeynep Aladağ, Merve Elçiçek, Seden Bedir, Etkin Parlar, Nazlıcan Altınışık, Selin Kahrıman, Seda Tahan, Hazal Şahin, Gülşah Akçadağ, Dilara Dalkıran, Şeyma Işık, Ecem Şener, Burcu Taluğ, Feyzanur Erdemir, Umut Onur Özcan, Seray Çetin, Dilara Aydemir, Mert Akgündüz, Çağla Geroglu, Aydan Sardoğan, İrem Özkan, Gökcan Şahin, Doğacan Yücel, Yasemin Acar, Gizem Aksoğan, Beyzanur Ceylan, Sinem Usluer, Ahmet Hoser (TÜBİTAK 2209A), Utku Ertetik (TÜBİTAK 2209A), Taha Hikmet Dikici (TÜBİTAK 2209A), Nazlı Ataş, Nilsu Atay, Enes K. Ergin, Zeynep Demir, Ebrar Nur Damar, Asya Kurtuluş, Esmanur Meryem Gedik.
