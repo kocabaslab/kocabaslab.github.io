@@ -21,24 +21,6 @@ description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici Univ
 - **Email:** fatih.kocabas@bogazici.edu.tr / fatihkocabas@gmail.com
 - **Fields of Interest:** Chemical Biology, Gene Editing, Organoids & Small-Molecule Drug Discovery
 
----
-
-## Languages
-
-- **Turkish:** Native Speaker 
-- **English:** Fluent — YDS 88.75 
-
----
-
-## Skills & Expertise
-
-- **Flow Cytometry & Laboratory Management (15+ Years):** HSC Stem Cell Biology, Cytoflex S Flow Cytometry (Beckman), S3e Cell Sorter (BioRad), FACSARIA III
-- **Editorial & Leadership (7+ Years):** Editor-in-Chief (*Turkish Journal of Biology* & *Gene Editing*), Peer-Review Management, Academic Leadership
-- **Drug Discovery & Development (15+ Years):** Hit Identification, Lead Optimization, Preclinical Validation, Small-Molecule Modulators, Organoid Models
-- **Project & Grant Management (15+ Years):** Principal Investigator for National & International Grants (TÜBİTAK, EIC, ERA-Net, EU, TÜBA)
-- **Innovation & Entrepreneurship (7+ Years):** Biotechnology Startups (Founder of Meinox), Patenting (Global Patent Family), BiGG, BigBang, RAE LIF
-
----
 
 ## Education
 
@@ -85,13 +67,22 @@ description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici Univ
 ---
 
 ## Honors & Awards
-
-- **2023:** TÜBA-GEBİP (Distinguished Young Scientist) Award, TÜBA
-- **2022:** TÜBİTAK Incentive Award, TÜBİTAK
+**Academic & Scientific Distinctions**
+- **2023:** TÜBA-GEBİP Award, Turkish Academy of Sciences (TÜBA)
+- **2021–2023:** Academic Achievement Awards for Contribution to Science, Yeditepe University
+- **2022:** TÜBİTAK Outstanding Young Scientist Incentive Award, TÜBİTAK
+- **2018:** International Hematology–Oncology Award, Gilead Sciences
 - **2015:** Young Scientist Award (BAGEP), Science Academy (Bilim Akademisi)
-- **2018:** International Hematology/Oncology Award, Gilead Sciences
-- **2019–2020:** BigBang Awards (Multiple Categories), İSO, Elginkan Foundation, Petrol Ofisi
-- and many others
+- **2012:** New Investigator Travel Award, BCVS, American Heart Association
+- **2012:** GSO Travel Award, University of Texas Southwestern Medical Center at Dallas
+- **2005:** Summer Undergraduate Research Fellowship (SURF), California Institute of Technology (Caltech)
+
+**Innovation & Entrepreneurship (Meinox)**
+- **2020:** BigBang Award, Petrol Ofisi (Meinox & Fatih Kocabaş)
+- **2020:** H2020-JTI-IMI2-2020-21 Threshold Award, TÜBİTAK (Meinox & Fatih Kocabaş)
+- **2020:** Best Presentation Award, Royal Academy of Engineering–Oxentia, London
+- **2019:** BigBang Award, Elginkan Foundation (Meinox & Fatih Kocabaş)
+- **2019:** BigBang Award, Istanbul Chamber of Industry (Meinox & Fatih Kocabaş)
 
 ---
 
@@ -99,3 +90,22 @@ description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici Univ
 
 - **Oct , 2013:** Business of Vaccine Development, Innovation in Therapeutics Manufacturing Workshop (Houston Medical Center, Texas) — National School of Tropical Medicine at **Baylor College of Medicine and The Texas A&M National Center for Therapeutics Manufacturing** ([Certificate PDF](/assets/pdf/baylor_vaccine_2013.pdf))
 - **May 2011:** Basic hESCs and hiPSCs Biology Course (Director Prof. Dr. Renee Reijo Pera) — Stanford Center for Human Embryonic Stem Cell Research and Education, **Stanford University** ([Certificate PDF](/assets/pdf/stanford_stemcell_2011.pdf))
+
+---
+
+## Languages
+
+- **Turkish:** Native Speaker 
+- **English:** Fluent — YDS 88.75 
+
+---
+
+## Skills & Expertise
+
+- **Flow Cytometry & Laboratory Management (15+ Years):** HSC Stem Cell Biology, Cytoflex S Flow Cytometry (Beckman), S3e Cell Sorter (BioRad), FACSARIA III
+- **Editorial & Leadership (7+ Years):** Editor-in-Chief (*Turkish Journal of Biology* & *Gene Editing*), Peer-Review Management, Academic Leadership
+- **Drug Discovery & Development (15+ Years):** Hit Identification, Lead Optimization, Preclinical Validation, Small-Molecule Modulators, Organoid Models
+- **Project & Grant Management (15+ Years):** Principal Investigator for National & International Grants (TÜBİTAK, EIC, ERA-Net, EU, TÜBA)
+- **Innovation & Entrepreneurship (7+ Years):** Biotechnology Startups (Founder of Meinox), Patenting (Global Patent Family), BiGG, BigBang, RAE LIF
+
+---
