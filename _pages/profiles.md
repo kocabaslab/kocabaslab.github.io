@@ -10,16 +10,16 @@ nav_order: 7
 ## Principal Investigator
 
 ### Prof. Dr. Fatih Kocabaş
-**Professor of Molecular Biology and Genetics**
+**Professor of Molecular Biology and Genetics, Boğaziçi University**
 
 <div class="row">
 <div class="col-sm-9" markdown="1">
 
-Prof. Dr. Fatih Kocabaş is a Professor of Molecular Biology and Genetics. He completed his B.S. at Orta Doğu Technical University (ODTÜ) and earned his Ph.D. in Genetics and Development at the University of Texas Southwestern (UTSW) Medical Center at Dallas. He also holds a B.S. in Health Management from Anadolu University.
+Prof. Dr. Fatih Kocabaş is a Professor in the Department of Molecular Biology and Genetics at Boğaziçi University. He received his B.S. in Molecular Biology and Genetics from Orta Doğu Teknik Üniversitesi (ODTÜ) and earned his Ph.D. in Genetics and Development from the University of Texas Southwestern (UTSW) Medical Center at Dallas. He also holds a B.S. in Health Management from Anadolu University.
 
-His scientific training includes collaborative research with Ron Vale and Susan Fisher at UCSF, and with Hesham Sadek, Alec Zhang, and Eric Olson at UTSW, alongside a research fellowship at the California Institute of Technology (Caltech) and stem cell training at Stanford University.
+His scientific training includes collaborative research with Ron Vale and Susan Fisher at the University of California, San Francisco (UCSF), and with Hesham Sadek, Alec Zhang, and Eric Olson at UTSW, alongside a research fellowship at the California Institute of Technology (Caltech) and stem cell training at Stanford University.
 
-He has published more than seventy peer-reviewed articles with over 3,600 citations, featuring contributions in leading journals such as *Nature*, *Cell Stem Cell*, and *Blood*. He has directed more than fifteen funded projects spanning stem cell biology, regenerative medicine, cancer research, and gene editing, supported by TÜBİTAK, EIC, ERA-CVD, EU Marie Curie, ICGEB, THD, TÜBA, and the Ministry of Development for YUCTEC Cell and Gene Therapies R&D Center initiative. He is the founder of Meinox, a biotechnology initiative developing targeted cancer therapeutics, and currently serves as the Editor-in-Chief of the *Turkish Journal of Biology*.
+He has published more than 70 peer-reviewed articles with over 3,600 citations, including high-impact contributions in Nature, Cell Stem Cell, and Blood. He has directed over 15 national and international grants spanning small-molecule drug discovery, 3D tumor organoids, stem cell biology, regenerative medicine, and CRISPR gene editing, supported by TÜBİTAK, EIC, ERA-CVD, EU Marie Curie, ICGEB, THD, TÜBA, and the Ministry of Development (YUCTEC Cell and Gene Therapies R&D Center initiative). A recipient of the TÜBA-GEBİP and TÜBİTAK Incentive Awards, he is the founder of Meinox—a biotechnology venture developing targeted cancer therapeutics—and serves as the Editor-in-Chief of the Turkish Journal of Biology and Gene Editing.
 
 </div>
 </div>
