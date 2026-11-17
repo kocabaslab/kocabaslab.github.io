@@ -1,13 +1,18 @@
 ---
 layout: page
-permalink: /cv/
-title: cv
+permalink: /CV/
+title: PI
 nav: true
 nav_order: 4
-cv_pdf: /assets/pdf/fatih_kocabas_cv.pdf
 description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici University Department of Molecular Biology and Genetics.
 ---
 
+<div class="mb-4">
+  <a href="/assets/pdf/fatih_kocabas_cv.pdf" target="_blank" class="btn btn-sm btn-outline-primary">
+    <i class="fas fa-file-pdf"></i> Download Full CV (PDF)
+  </a>
+</div>
+---
 
 ## General Information
 
