@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: Home
 title: Home
 permalink: /
 subtitle: <a href='https://mbg.bogazici.edu.tr/' target='_blank'>Department of Molecular Biology and Genetics</a>, Boğaziçi University
