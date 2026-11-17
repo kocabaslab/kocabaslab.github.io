@@ -13,7 +13,7 @@ profile:
     <p>North Campus, Kuzey Park Building</p>
     <p>Boğaziçi University, Bebek, İstanbul</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
