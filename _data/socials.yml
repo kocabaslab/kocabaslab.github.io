@@ -10,7 +10,6 @@ scholar_userid: lRj-Zw0AAAAJ&hl # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # LinkedIn için yerleşik alanı kullanmanız yeterlidir:
 linkedin_username: fatihkocabas
-orcid_id: 0000-0001-8096-6056
 # Özel ikonunuz (Kitap) için benzersiz anahtar adı ve yerel dosya yolu:
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: /assets/img/kitap.png
