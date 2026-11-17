@@ -15,7 +15,7 @@ nav_order: 7
 <div class="row">
 <div class="col-sm-9" markdown="1">
 
-Prof. Dr. Fatih Kocabaş is a Professor of Molecular Biology and Genetics. He completed his B.S. at Middle East Technical University (ODTÜ) and earned his Ph.D. in Genetics and Development at the University of Texas Southwestern (UTSW) Medical Center at Dallas. He also holds a B.S. in Health Management from Anadolu University.
+Prof. Dr. Fatih Kocabaş is a Professor of Molecular Biology and Genetics. He completed his B.S. at Orta Doğu Technical University (ODTÜ) and earned his Ph.D. in Genetics and Development at the University of Texas Southwestern (UTSW) Medical Center at Dallas. He also holds a B.S. in Health Management from Anadolu University.
 
 His scientific training includes collaborative research with Ron Vale and Susan Fisher at UCSF, and with Hesham Sadek, Alec Zhang, and Eric Olson at UTSW, alongside a research fellowship at the California Institute of Technology (Caltech) and stem cell training at Stanford University.
 
