@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: The ODD Lab | Kocabaş Lab
+title: Lab Members
 description: The ODD Lab Members and Alumni
 nav: true
 nav_order: 7
@@ -26,27 +26,6 @@ He has published more than seventy peer-reviewed articles with over 3,600 citati
 
 ---
 
-## Education
-
-- **Ph.D. in Genetics and Development** — University of Texas Southwestern (UTSW) Medical Center at Dallas, USA
-- **B.S. in Molecular Biology and Genetics** — Middle East Technical University (ODTÜ), Türkiye
-- **B.S. in Health Management** — Anadolu University, Türkiye
-
----
-
-## Professional Appointments
-
-- **2027–Present:** Professor, Department of Molecular Biology and Genetics, Boğaziçi University
-- **2026–2027:** Professor & Department Head, Department of Molecular Biology and Genetics, Istanbul Atlas University
-- **2025:** Professor, Yeditepe University
-- **2019–2025:** Associate Professor, Yeditepe University
-- **2014–2019:** Assistant Professor, Yeditepe University
-- **2007–2014:** Research Assistant, University of Texas Southwestern Medical Center at Dallas, TX, USA
-- **2006–2007:** Junior Researcher, University of California, San Francisco (UCSF), CA, USA
-- **2005:** Research Intern, California Institute of Technology (Caltech), CA, USA
-
----
-
 ## Honors & Awards
 
 ### Academic & Scientific Distinctions
@@ -67,14 +46,18 @@ He has published more than seventy peer-reviewed articles with over 3,600 citati
 - **2019:** BigBang Award, Istanbul Chamber of Industry, Meinox & Fatih Kocabaş
 
 ---
+## Join the Lab
+---
+We are actively recruiting motivated M.Sc. and Ph.D. students through the Boğaziçi University MBG graduate program, as well as undergraduate researchers. Prospective members are encouraged to reach out with a brief CV and research statement (Email:fatihkocabas@gmail.com / fatih.kocabas@bogazici.edu.tr).
 
-## Laboratory Members
+---
+## Laboratory Members and Alumni
 
 ### Postdoctoral Researchers
-- Dr. Gülen Esken
-- Dr. Medine Karadağ
-- Dr. Melek Yüce
-- Dr. Remziye Doğer
+- Dr. Gülen Esken (2018-2020)
+- Dr. Medine Karadağ (2018-2019)
+- Dr. Melek Yüce (2018-2019)
+- Dr. Remziye Doğer (2018-2019)
 
 ### Ph.D. Students
 - Aynura Mammadova (2026)
