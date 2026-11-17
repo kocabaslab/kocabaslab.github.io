@@ -72,7 +72,7 @@ description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici Univ
 - **2012:** GSO Travel Award, University of Texas Southwestern Medical Center at Dallas
 - **2005:** Summer Undergraduate Research Fellowship (SURF), California Institute of Technology (Caltech)
 
-**Innovation & Entrepreneurship (Meinox)**
+**Innovation & Entrepreneurship**
 - **2020:** BigBang Award, Petrol Ofisi (Meinox & Fatih Kocabaş)
 - **2020:** H2020-JTI-IMI2-2020-21 Threshold Award, TÜBİTAK (Meinox & Fatih Kocabaş)
 - **2020:** Best Presentation Award, Royal Academy of Engineering–Oxentia, London
@@ -83,8 +83,8 @@ description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici Univ
 
 ## Certification
 
-- **Oct , 2013:** Business of Vaccine Development, Innovation in Therapeutics Manufacturing Workshop (Houston Medical Center, Texas) — National School of Tropical Medicine at **Baylor College of Medicine and The Texas A&M National Center for Therapeutics Manufacturing** ([Certificate PDF](/assets/pdf/baylor_vaccine_2013.pdf))
-- **May 2011:** Basic hESCs and hiPSCs Biology Course (Director Prof. Dr. Renee Reijo Pera) — Stanford Center for Human Embryonic Stem Cell Research and Education, **Stanford University** ([Certificate PDF](/assets/pdf/stanford_stemcell_2011.pdf))
+- **Stanford University, May 2011:** Basic hESCs and hiPSCs Biology Course (Director Prof. Dr. Renee Reijo Pera) — Stanford Center for Human Embryonic Stem Cell Research and Education,  ([Certificate PDF](/assets/pdf/stanford_stemcell_2011.pdf))
+- **Baylor College of Medicine and The Texas A&M National Center for Therapeutics Manufacturing, Oct 2013:** Business of Vaccine Development, Innovation in Therapeutics Manufacturing Workshop (Houston Medical Center, Texas) — National School of Tropical Medicine at  ([Certificate PDF](/assets/pdf/baylor_vaccine_2013.pdf))
 
 ---
 
