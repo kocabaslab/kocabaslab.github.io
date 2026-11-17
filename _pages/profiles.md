@@ -36,7 +36,7 @@ He has published more than seventy peer-reviewed articles with over 3,600 citati
 - **2012:** GSO Travel Award, University of Texas Southwestern Medical Center at Dallas
 - **2005:** Summer Undergraduate Research Fellowship, California Institute of Technology (Caltech)
 
-### Innovation & Entrepreneurship (Meinox)
+### Innovation & Entrepreneurship
 - **2020:** BigBang Award / Petrol Ofisi, Meinox & Fatih Kocabaş
 - **2020:** H2020-JTI-IMI2-2020-21 Threshold Award by TÜBİTAK, Meinox & Fatih Kocabaş
 - **2020:** Best Presentation Award, Royal Academy of Engineering–Oxentia, London
