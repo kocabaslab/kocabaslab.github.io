@@ -7,11 +7,6 @@ nav_order: 4
 description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici University Department of Molecular Biology and Genetics.
 ---
 
-<div class="mb-4">
-  <a href="/assets/pdf/fatih_kocabas_cv.pdf" target="_blank" class="btn btn-sm btn-outline-primary">
-    <i class="fas fa-file-pdf"></i> Download Full CV (PDF)
-  </a>
-</div>
 ---
 
 ## General Information
@@ -109,3 +104,8 @@ description: Prof. Dr. Fatih Kocabaş - Academic Curriculum Vitae, Bogazici Univ
 - **Innovation & Entrepreneurship (7+ Years):** Biotechnology Startups (Founder of Meinox), Patenting (Global Patent Family), BiGG, BigBang, RAE LIF
 
 ---
+<div class="mb-4">
+  <a href="/assets/pdf/fatih_kocabas_cv.pdf" target="_blank" class="btn btn-sm btn-outline-primary">
+    <i class="fas fa-file-pdf"></i> Download Full CV (PDF)
+  </a>
+</div>
